@@ -2,7 +2,13 @@
     <img height="50" src="./src/assets/codux.svg">  
     <h1>React App template for Codux</h1>
 </div>
-
+<div>
+    <img src="https://github.com/Javad-EB/YarMovie/assets/91270996/3c834c5a-af60-4874-8e4b-ec09f4df8ad3">
+    <h3>Yar Movie Site</h3>
+    <p>
+        This site Create by Codux a Visual IDE for React.
+    </p>
+</div>
 
 ### A Visual IDE for React Projects
 
