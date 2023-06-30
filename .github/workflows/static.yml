@@ -34,7 +34,7 @@ jobs:
       - name: Setup Node
         uses: actions/setp-node@v3
         with:
-          node-version: 18
+          node-version: 20
           cache: 'npm'
       - name: inistall Dependencies
         run: npm install
