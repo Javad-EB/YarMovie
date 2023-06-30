@@ -1,7 +1,3 @@
-<div align="center">  
-    <img height="50" src="./src/assets/codux.svg">  
-    <h1>React App template for Codux</h1>
-</div>
 <div>
     <img src="https://github.com/Javad-EB/YarMovie/assets/91270996/3c834c5a-af60-4874-8e4b-ec09f4df8ad3">
     <h3>Yar Movie Site</h3>
@@ -10,6 +6,10 @@
     </p>
 </div>
 
+<div align="center">  
+    <img height="50" src="./src/assets/codux.svg">  
+    <h1>React App template for Codux</h1>
+</div>
 ### A Visual IDE for React Projects
 
 Codux is an all-in-one visual development environment. Whether you’re starting a new app, creating components, or editing an existing project, every visual change you make reflects instantly in the code and vice versa. To learn more about Codux, visit our website - [https://www.codux.com/](https://www.codux.com/)
